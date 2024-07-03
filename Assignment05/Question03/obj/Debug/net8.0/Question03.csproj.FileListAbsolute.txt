@@ -1,0 +1,14 @@
+F:\eclipse\MS.Net\.net Assingment\Assignment05\Question03\bin\Debug\net8.0\Question03.exe
+F:\eclipse\MS.Net\.net Assingment\Assignment05\Question03\bin\Debug\net8.0\Question03.deps.json
+F:\eclipse\MS.Net\.net Assingment\Assignment05\Question03\bin\Debug\net8.0\Question03.runtimeconfig.json
+F:\eclipse\MS.Net\.net Assingment\Assignment05\Question03\bin\Debug\net8.0\Question03.dll
+F:\eclipse\MS.Net\.net Assingment\Assignment05\Question03\bin\Debug\net8.0\Question03.pdb
+F:\eclipse\MS.Net\.net Assingment\Assignment05\Question03\obj\Debug\net8.0\Question03.GeneratedMSBuildEditorConfig.editorconfig
+F:\eclipse\MS.Net\.net Assingment\Assignment05\Question03\obj\Debug\net8.0\Question03.AssemblyInfoInputs.cache
+F:\eclipse\MS.Net\.net Assingment\Assignment05\Question03\obj\Debug\net8.0\Question03.AssemblyInfo.cs
+F:\eclipse\MS.Net\.net Assingment\Assignment05\Question03\obj\Debug\net8.0\Question03.csproj.CoreCompileInputs.cache
+F:\eclipse\MS.Net\.net Assingment\Assignment05\Question03\obj\Debug\net8.0\Question03.dll
+F:\eclipse\MS.Net\.net Assingment\Assignment05\Question03\obj\Debug\net8.0\refint\Question03.dll
+F:\eclipse\MS.Net\.net Assingment\Assignment05\Question03\obj\Debug\net8.0\Question03.pdb
+F:\eclipse\MS.Net\.net Assingment\Assignment05\Question03\obj\Debug\net8.0\Question03.genruntimeconfig.cache
+F:\eclipse\MS.Net\.net Assingment\Assignment05\Question03\obj\Debug\net8.0\ref\Question03.dll
