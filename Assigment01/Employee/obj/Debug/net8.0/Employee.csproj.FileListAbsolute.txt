@@ -1,0 +1,14 @@
+F:\eclipse\MS.Net\.net Assingment\Assigment01\Employee\bin\Debug\net8.0\Employee.exe
+F:\eclipse\MS.Net\.net Assingment\Assigment01\Employee\bin\Debug\net8.0\Employee.deps.json
+F:\eclipse\MS.Net\.net Assingment\Assigment01\Employee\bin\Debug\net8.0\Employee.runtimeconfig.json
+F:\eclipse\MS.Net\.net Assingment\Assigment01\Employee\bin\Debug\net8.0\Employee.dll
+F:\eclipse\MS.Net\.net Assingment\Assigment01\Employee\bin\Debug\net8.0\Employee.pdb
+F:\eclipse\MS.Net\.net Assingment\Assigment01\Employee\obj\Debug\net8.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+F:\eclipse\MS.Net\.net Assingment\Assigment01\Employee\obj\Debug\net8.0\Employee.AssemblyInfoInputs.cache
+F:\eclipse\MS.Net\.net Assingment\Assigment01\Employee\obj\Debug\net8.0\Employee.AssemblyInfo.cs
+F:\eclipse\MS.Net\.net Assingment\Assigment01\Employee\obj\Debug\net8.0\Employee.csproj.CoreCompileInputs.cache
+F:\eclipse\MS.Net\.net Assingment\Assigment01\Employee\obj\Debug\net8.0\Employee.dll
+F:\eclipse\MS.Net\.net Assingment\Assigment01\Employee\obj\Debug\net8.0\refint\Employee.dll
+F:\eclipse\MS.Net\.net Assingment\Assigment01\Employee\obj\Debug\net8.0\Employee.pdb
+F:\eclipse\MS.Net\.net Assingment\Assigment01\Employee\obj\Debug\net8.0\Employee.genruntimeconfig.cache
+F:\eclipse\MS.Net\.net Assingment\Assigment01\Employee\obj\Debug\net8.0\ref\Employee.dll
